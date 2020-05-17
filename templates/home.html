@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<!-- <link rel="stylesheet" type="text/css" href="../static/css/styles.css"> -->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+
+	<header>
+		<div class="container">
+		<div id="brandname">
+			<h1>Bank Note Real or Fake</h1>
+			<br>
+            <br>
+
+	</header>
+
+	<div class="ml-container">
+
+		<form action="{{ url_for('predict')}}"method="post">
+    	<input type="text" name="variance" placeholder="Variance" required="required" />
+        <input type="text" name="skewness" placeholder="Skewness" required="required" />
+		<input type="text" name="curtosis" placeholder="Curtosis" required="required" />
+        <input type="text" name="entropy"  placeholder="Entropy" required="required" />
+        <br>
+        <br>
+		<br>
+		
+        
+        <button type="submit" class="btn-info">Predict</button>
+        
+		
+	</form>
+		
+	</div>
+
+	
+	
+
+</body>
+</html>
