@@ -1,0 +1,17 @@
+tid,equip_id,name,vendor,model,type,status,shelf_name,shelf_num,site_id,source_sys,site_name,clli,room,floor,site_address,city,state,zip,country,latitude,longitude,site_status
+BTHYPABT_AU1,10005,,,EDGE ROUTER,,LIVE,,,,NFM,,,,,,,,,,,,LIVE
+STRTILGDL03-0000003,10009,,,GTD5,,LIVE,,,,NFM,,,,,,,,,,,,LIVE
+STRTILGDL04-0000004,10010,,,GTD5,,LIVE,,,,NFM,,,,,,,,,,,,LIVE
+STRTILGEL01-0000005,10011,,,GTD5,,LIVE,,,,NFM,,,,,,,,,,,,LIVE
+STRTILGFL01-0000006,10012,,,GTD5,,LIVE,,,,NFM,,,,,,,,,,,,LIVE
+STRTILU0806-0000206,10013,,,UMC-1000,,LIVE,,,,NFM,,,,,,,,,,,,LIVE
+STRTILXADS0,10015,,,GTD5,,LIVE,,,,NFM,,,,,,,,,,,,LIVE
+STTLWAGA03W,10020,,,STP,,LIVE,,,,NFM,,,,,,,,,,,,LIVE
+NWHPPANH _AU1,10026,,,EDGE ROUTER,,LIVE,,,,NFM,,,,,,,,,,,,LIVE
+MRSVPAMV_AU1,10045,,,EDGE ROUTER,,LIVE,,,,NFM,,,,,,,,,,,,LIVE
+MNDNPAMH_AU1,10057,,,ROUTER,,LIVE,,,,NFM,,,,,,,,,,,,LIVE
+HLTWPAHT_AU1,10058,,,EDGE ROUTER,,LIVE,,,,NFM,,,,,,,,,,,,LIVE
+SLTTPASL_AU1,10059,,,EDGE ROUTER,,LIVE,,,,NFM,,,,,,,,,,,,LIVE
+HRLVPAHV _AU1,10063,,,EDGE ROUTER,,LIVE,,,,NFM,,,,,,,,,,,,LIVE
+MEDIPAME_AU1,10074,,,EDGE ROUTER,,LIVE,,,,NFM,,,,,,,,,,,,LIVE
+NATNPANH_AU1,10087,,,EDGE ROUTER,,LIVE,,,,NFM,,,,,,,,,,,,LIVE
